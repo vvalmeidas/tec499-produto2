@@ -1,0 +1,38 @@
+
+State Machine - |projeto_crc|uart_controller:inst2|uart_rx:uart_rx|state
+Name state.done state.checking state.receiving state.idle state.failed 
+state.idle 0 0 0 0 0 
+state.receiving 0 0 1 1 0 
+state.checking 0 1 0 1 0 
+state.done 1 0 0 1 0 
+state.failed 0 0 0 1 1 
+
+State Machine - |projeto_crc|uart_controller:inst2|fifo_controller:fifo_controller|state_2
+Name state_2.d state_2.c state_2.b state_2.a 
+state_2.a 0 0 0 0 
+state_2.b 0 0 1 1 
+state_2.c 0 1 0 1 
+state_2.d 1 0 0 1 
+
+State Machine - |projeto_crc|uart_controller:inst2|fifo_controller:fifo_controller|state
+Name state.d state.c state.b state.a 
+state.a 0 0 0 0 
+state.b 0 0 1 1 
+state.c 0 1 0 1 
+state.d 1 0 0 1 
+
+State Machine - |projeto_crc|NiosQsys:inst1|NiosQsys_nios2_qsys_0:nios2_qsys_0|NiosQsys_nios2_qsys_0_nios2_oci:the_NiosQsys_nios2_qsys_0_nios2_oci|NiosQsys_nios2_qsys_0_jtag_debug_module_wrapper:the_NiosQsys_nios2_qsys_0_jtag_debug_module_wrapper|NiosQsys_nios2_qsys_0_jtag_debug_module_tck:the_NiosQsys_nios2_qsys_0_jtag_debug_module_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 
+
+State Machine - |projeto_crc|Controller_LCD_TOP:inst|Escritor_LCD:Escritor|estado
+Name estado.FINISH estado.WAIT_153MS estado.WRITE estado.WAIT_30MS 
+estado.WAIT_30MS 0 0 0 0 
+estado.WRITE 0 0 1 1 
+estado.WAIT_153MS 0 1 0 1 
+estado.FINISH 1 0 0 1 

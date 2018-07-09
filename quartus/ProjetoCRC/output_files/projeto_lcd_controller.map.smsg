@@ -1,0 +1,11 @@
+Info (10281): Verilog HDL Declaration information at NiosQsys_id_router.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at NiosQsys_id_router.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at NiosQsys_addr_router.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at NiosQsys_addr_router.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at Inicializador_LCD.v(50): object "Estado" differs only in case from object "estado" in the same scope
+Info (10281): Verilog HDL Declaration information at Inicializador_LCD.v(54): object "Dados" differs only in case from object "dados" in the same scope
+Info (10281): Verilog HDL Declaration information at Inicializador_LCD.v(51): object "Enable" differs only in case from object "enable" in the same scope
+Info (10281): Verilog HDL Declaration information at Inicializador_LCD.v(52): object "RS" differs only in case from object "rs" in the same scope
+Info (10281): Verilog HDL Declaration information at Escritor_LCD.v(59): object "Dados" differs only in case from object "dados" in the same scope
+Info (10281): Verilog HDL Declaration information at Escritor_LCD.v(55): object "Enable" differs only in case from object "enable" in the same scope
+Info (10281): Verilog HDL Declaration information at Escritor_LCD.v(56): object "RS" differs only in case from object "rs" in the same scope

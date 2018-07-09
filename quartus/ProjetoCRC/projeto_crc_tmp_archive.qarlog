@@ -1,0 +1,74 @@
+Quartus II Archive log --	C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_crc_tmp_archive.qarlog
+
+Archive:	C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_crc_tmp_archive.qar
+Date:		Wed Jul 04 10:32:13 2018
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/incremental_db/compiled_partitions/projeto_lcd_controller.db_info
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_crc.qpf
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_lcd_controller.qsf
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys.bsf
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/NiosQsys.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/projeto_crc.bdf
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_addr_router.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_cmd_xbar_demux.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_cmd_xbar_mux.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_control_words.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_controls_uart.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_empty.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_entrada_lcd.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_entrada_lcd_1.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_id_router.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_irq_mapper.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_jtag_uart_0.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_modo_operacao_lcd.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0.sdc
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0_jtag_debug_module_sysclk.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0_jtag_debug_module_tck.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0_jtag_debug_module_wrapper.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0_oci_test_bench.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_nios2_qsys_0_test_bench.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_number_received_bytes.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_onchip_memory2_0.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_parallel_port_0.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_pio_0.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_read.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_rsp_xbar_demux.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_rsp_xbar_mux.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/NiosQsys_rx_dados.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_master_agent.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_master_translator.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_reset_controller.sdc
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_reset_controller.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_qsys/NiosQsys/synthesis/submodules/altera_reset_synchronizer.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/lcd_controller/Controller_LCD_TOP.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/lcd_controller/Escritor_LCD.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/lcd_controller/Inicializador_LCD.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/baud_115200_generator.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/baud_19200_generator.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/baud_7200_generator.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/baud_9600_generator.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/fifo.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/fifo_controller.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/mux4_1.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/mux4_1_4bits.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/uart_controller.v
+C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/verilog/uart_controller/uart_rx.v
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 57 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Jul 04 10:32:18 2018
+Source archive file:	C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC/projeto_crc_tmp_archive.qar
+Archive was extracted into	C:/Users/Vinicius/Desktop/PBL - Sistemas Digitais/tec499-problema2/quartus/ProjetoCRC_copy/
+		 - successfully.

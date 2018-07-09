@@ -1,0 +1,125 @@
+Flow report for projeto_lcd_controller
+Thu Jul 05 14:37:45 2018
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++--------------------------------------------------------------------------------------+
+; Flow Summary                                                                         ;
++------------------------------------+-------------------------------------------------+
+; Flow Status                        ; Successful - Thu Jul 05 14:37:34 2018           ;
+; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
+; Revision Name                      ; projeto_lcd_controller                          ;
+; Top-level Entity Name              ; projeto_crc                                     ;
+; Family                             ; Cyclone IV E                                    ;
+; Device                             ; EP4CE6E22C8                                     ;
+; Timing Models                      ; Final                                           ;
+; Total logic elements               ; 3,011 / 6,272 ( 48 % )                          ;
+;     Total combinational functions  ; 2,883 / 6,272 ( 46 % )                          ;
+;     Dedicated logic registers      ; 1,473 / 6,272 ( 23 % )                          ;
+; Total registers                    ; 1473                                            ;
+; Total pins                         ; 22 / 92 ( 24 % )                                ;
+; Total virtual pins                 ; 0                                               ;
+; Total memory bits                  ; 60,416 / 276,480 ( 22 % )                       ;
+; Embedded Multiplier 9-bit elements ; 0 / 30 ( 0 % )                                  ;
+; Total PLLs                         ; 0 / 2 ( 0 % )                                   ;
++------------------------------------+-------------------------------------------------+
+
+
++--------------------------------------------+
+; Flow Settings                              ;
++-------------------+------------------------+
+; Option            ; Setting                ;
++-------------------+------------------------+
+; Start date & time ; 07/05/2018 14:36:33    ;
+; Main task         ; Compilation            ;
+; Revision Name     ; projeto_lcd_controller ;
++-------------------+------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                ;
++-------------------------------------+---------------------------------------+------------------------+-------------+------------+
+; Assignment Name                     ; Value                                 ; Default Value          ; Entity Name ; Section Id ;
++-------------------------------------+---------------------------------------+------------------------+-------------+------------+
+; COMPILER_SIGNATURE_ID               ; 145667773545104.153081219308072       ; --                     ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                    ; --                     ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                     ; --                     ; --          ; --         ;
+; PARTITION_COLOR                     ; 16764057                              ; --                     ; projeto_crc ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; PLACEMENT_AND_ROUTING                 ; --                     ; projeto_crc ; Top        ;
+; PARTITION_NETLIST_TYPE              ; SOURCE                                ; --                     ; projeto_crc ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                   ; --                     ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW ; --                     ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                          ; --                     ; --          ; --         ;
+; TOP_LEVEL_ENTITY                    ; projeto_crc                           ; projeto_lcd_controller ; --          ; --         ;
++-------------------------------------+---------------------------------------+------------------------+-------------+------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:00:27     ; 1.0                     ; 4778 MB             ; 00:00:27                           ;
+; Fitter                    ; 00:00:23     ; 1.0                     ; 4984 MB             ; 00:00:23                           ;
+; Assembler                 ; 00:00:03     ; 1.0                     ; 4580 MB             ; 00:00:02                           ;
+; TimeQuest Timing Analyzer ; 00:00:10     ; 1.0                     ; 4665 MB             ; 00:00:07                           ;
+; Total                     ; 00:01:03     ; --                      ; --                  ; 00:00:59                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                        ;
++---------------------------+------------------+-----------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
++---------------------------+------------------+-----------+------------+----------------+
+; Analysis & Synthesis      ; DESKTOP-LOR4VTS  ; Windows 7 ; 6.2        ; x86_64         ;
+; Fitter                    ; DESKTOP-LOR4VTS  ; Windows 7 ; 6.2        ; x86_64         ;
+; Assembler                 ; DESKTOP-LOR4VTS  ; Windows 7 ; 6.2        ; x86_64         ;
+; TimeQuest Timing Analyzer ; DESKTOP-LOR4VTS  ; Windows 7 ; 6.2        ; x86_64         ;
++---------------------------+------------------+-----------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off projeto_crc -c projeto_lcd_controller
+quartus_fit --read_settings_files=off --write_settings_files=off projeto_crc -c projeto_lcd_controller
+quartus_asm --read_settings_files=off --write_settings_files=off projeto_crc -c projeto_lcd_controller
+quartus_sta projeto_crc -c projeto_lcd_controller
+
+
+

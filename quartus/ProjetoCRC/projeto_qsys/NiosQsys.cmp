@@ -1,0 +1,20 @@
+	component NiosQsys is
+		port (
+			clk_clk                                  : in  std_logic                    := 'X';             -- clk
+			modo_operacao_lcd_export                 : out std_logic_vector(1 downto 0);                    -- export
+			rx_dados_export                          : in  std_logic_vector(7 downto 0) := (others => 'X'); -- export
+			empty_external_connection_export         : in  std_logic                    := 'X';             -- export
+			controls_uart_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			read_external_connection_export          : out std_logic;                                       -- export
+			entrada_lcd_2_export                     : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_1_export                     : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_3_export                     : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_4_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_5_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_6_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_7_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_8_external_connection_export : out std_logic_vector(7 downto 0);                    -- export
+			entrada_lcd_9_external_connection_export : out std_logic_vector(7 downto 0)                     -- export
+		);
+	end component NiosQsys;
+
